@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOPI_lab1_Zganyayko_Volodymyr", "IOPI_lab1_Zganyayko_Volodymyr\IOPI_lab1_Zganyayko_Volodymyr.csproj", "{8A7BC5C1-D0B0-4C25-A4A5-5EC0B066A9EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A7BC5C1-D0B0-4C25-A4A5-5EC0B066A9EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7BC5C1-D0B0-4C25-A4A5-5EC0B066A9EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7BC5C1-D0B0-4C25-A4A5-5EC0B066A9EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7BC5C1-D0B0-4C25-A4A5-5EC0B066A9EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF50E716-21CC-4648-88F6-4B134DD1FEC1}
+	EndGlobalSection
+EndGlobal
